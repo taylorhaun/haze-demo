@@ -4,7 +4,12 @@ A social place discovery app for iOS that helps you save, organize, and share yo
 
 > **Note:** This is a showcase repo. Haze is a for-profit app currently in TestFlight beta — source code is in a private repository.
 
-<!-- ![Haze App](screenshots/1_appstore.png) -->
+<p align="center">
+  <img src="screenshots/1_appstore.png" width="200" />
+  <img src="screenshots/2_appstore.png" width="200" />
+  <img src="screenshots/3_appstore.png" width="200" />
+  <img src="screenshots/4_appstore.png" width="200" />
+</p>
 
 ## What It Does
 
